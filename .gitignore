@@ -1,0 +1,31 @@
+# Byte-code files
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv
+env/
+venv/
+ENV/
+
+# Editor/IDE-specific files
+.idea/  # For PyCharm (uncomment if desired)
+.vscode/ # For VS Code
+.spyderproject
+.spyproject
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-line.txt
+
+# OS-generated files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Sensitive files/environment variables
+.env
